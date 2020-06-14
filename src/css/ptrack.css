@@ -1,0 +1,26 @@
+.phead{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(94, 92, 92);
+    color:rgb(252, 245, 245);
+    width: 100%;
+    padding: 1% ;
+}
+.phead h1{
+    width: 75%;
+}
+.time{
+    float: right;
+}
+.pdet{
+    padding: 5px;
+}
+.his{
+    width: 90%;
+    margin-top:10px ;
+    margin-left:20px; ;
+    padding:5px;
+    background-color: rgb(54, 54, 56);
+    color: floralwhite;
+    border-radius: 8px;
+}
